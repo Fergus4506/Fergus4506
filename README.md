@@ -1,4 +1,4 @@
-<div>
+<div style="height=250px">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Fergus4506&theme=dark&show_icons=false" alt="Anurag's github stats" /></a>
 </div>
 
