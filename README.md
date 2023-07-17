@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm yangdunjie</h1>
 <h3 align="center">A student from National Taitung University</h3>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fergus4506&theme=dark&show_icons=false)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fergus4506&layout=donut-vertical&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fergus4506&theme=dark&show_icons=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fergus4506&layout=donut-vertical&theme=dark)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fergus4506&label=Profile%20views&color=0e75b6&style=plastic" alt="fergus4506" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fergus4506" alt="fergus4506" /></a> </p>
